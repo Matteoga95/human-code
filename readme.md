@@ -5,37 +5,39 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 
 
 -Inizio
--Pulisci il desktop
--Rimuovi i documenti di lavoro aperti
--SE non hai salvato i documenti
-    -salva i documenti
-    -chiudi i documenti
--SE hai salvato i documenti 
-    -chiudi i documenti 
--Cerca la pizzeria
--Apri il menù
--Scorri il listino
--SE hai deciso la pizza da ordinare
-    -continua a sfongliare il listino 
--SE hai deciso la pizza da ornidare
-    -chiama la pizzeria
-    -ordina la classina prosciutto e funghi
-    -Informati sul tempo di consegna
--Attendi la consegna
-<!-- Suono Campanello -->
--Dirigiti verso la porta di ingresso
--Apri il portone
--Paga il fattorino 
--Ritira la pizza
--Dirigiti sul divano
--Accendi la televisione
--SE non hai scelto cosa vedere
-    -continua a cambiare programma
--SE hai scelto cosa vedere
-    -Posa il telecomando
--Apri la scaatola della pizza 
--Mangia la pizza
--SE non riesci a finirla tutta
-    -Posa la restante parte all'interno del frigo
--SE sei riuscito a finirla
-    -Getta la scatola nell'immondizia
+- Pulisci il desktop
+- Rimuovi i documenti di lavori aperti
+- SE non hai salvato i documenti
+    - salva i documenti
+    - chiudi i documenti
+- ALTRIMENTI se hai salvato i documenti
+    - Chiudi i documenti
+- Cercare la pizzeria
+- Consulta il listino prezzi
+- Apri il menù
+- Scorri il listino
+- SE non hai deciso il tipo di pizza da ordinare
+    - continua a sfogliare il listino
+- ALTRIMENTI se hai deciso la pizza da ordinare
+    - Chiama la pizzeria
+    - Ordina la tua classica prosciutto e funghi
+    - Informati sul tempo di arrivo
+- Attendi la consegna
+- Quando senti il campanello
+- Dirigiti verso la porta di ingresso
+- Apri il portone
+- Paga il fattorino
+- Ritira la pizza
+- Prendi dei tovaglioli
+- Dirigiti sul divano
+- Accendi la televisione
+- SE non hai deciso cosa vedere
+    - Continua a cambiare programma
+- ALTRIMENTI se hai scelto cosa vedere
+    - Posa il telecomendo
+- Apri lo scatolo della pizza
+- Mangia la piza
+- SE non riesci a finirla tutta
+    - Posa la restante parte all’interno del frigorifero
+- ALTRIMENTI se sei riuscito a finirla
+    - Getta lo scatolo nell’apposito sacco
